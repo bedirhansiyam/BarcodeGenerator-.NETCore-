@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\BarcodeGenerator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\BarcodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\BarcodeGenerator.csproj",
+        "projectName": "BarcodeGenerator",
+        "projectPath": "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\BarcodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\bedir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bedir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Aspose.BarCode": {
+              "target": "Package",
+              "version": "[23.1.0, )"
+            },
+            "BarcodeLib": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

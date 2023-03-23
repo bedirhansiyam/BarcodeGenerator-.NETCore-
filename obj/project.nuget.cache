@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oDW655utaymnvNUdq4g0Ou0m+8PKlB6OoAGOVcS89A0Fov1dRUeX1L0dr0GtrMPoB5TW/mV1bTS1It8tR6wOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bedir\\Documents\\workspace\\C#\\1- VS Code\\ProjectSample\\BarcodeGenerator\\BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bedir\\.nuget\\packages\\aspose.barcode\\23.1.0\\aspose.barcode.23.1.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\bedir\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
