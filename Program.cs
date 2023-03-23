@@ -79,7 +79,7 @@ class Program
                     barcode.SaveImage(path,SaveTypes.PNG);
     
                     Console.WriteLine("");
-                    Console.WriteLine($"The barcode named {barcodeName}.png has been successfully saved.");
+                    Console.WriteLine($"The barcode named '{barcodeName}.png' has been successfully generated and saved.");
                     ReturnMenu();
                     break;
                 case 2:
